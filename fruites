@@ -1,5 +1,7 @@
-Apple
-Strawberry
-Orange
-Pear
-Peach
+{
+[{name:'Apple'}],
+[{name:'Strawberry'}],
+[{name:'Orange'}],
+[{name:'Pear'}],
+[{name:'Peach'}]
+}

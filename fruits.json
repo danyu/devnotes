@@ -1,7 +1,7 @@
 [
-  {name:'Apple'},
-  {name:'Strawberry'},
-  {name:'Orange'},
-  {name:'Pear'},
-  {name:'Peach'}
+  {"name":"Apple"},
+  {"name":"Strawberry"},
+  {"name":"Orange"},
+  {"name":"Pear"},
+  {"name":"Peach"}
 ]
